@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App 2</string>
+    <string name="Singapore">Singapore</string>
+    <string name="Camera">Camera</string>
+    <string name="Settings">Settings</string>
+    <string name="CameraEdit"> Leica M Typ 240</string>
+    <string name="SettingsEdit"> f/4 16s ISO 200</string>
+    <string name="paragraph">My Name Zakaria , Call me Zico , Zico Egyptian business man , Villity 90 fdan ,My car is porsche cayenne , B48l eltkeef , I do not know the fan , T3ber w4ha mbhor , Mbhor bgnan , Tl3t el iphone , 3ndk whats?? , Twitter face w instagram , Tl3 el3da elsam , W s2lha mobaylek kam , rdt: amot f el43r elzero yanhar elsa3a 12,4klk zy elhero snk 27 da a7na fe a5er 4he 11 , Ya 2mr 14 , Eftkr w enta mrwo7 a5rha 2.</string>
+    <string name="discard">DISCARD</string>
+    <string name="upload"> UPLOAD</string>
+</resources>
